@@ -1,7 +1,5 @@
 (function(){
-    /**
-     * use_strict
-     */
+    "use strict";
     /*****************************
     * CODING CHALLENGE 1
     */
